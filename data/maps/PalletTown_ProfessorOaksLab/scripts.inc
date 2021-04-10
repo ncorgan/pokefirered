@@ -757,6 +757,7 @@ PalletTown_ProfessorOaksLab_EventScript_ReceiveDexScene:: @ 816961E
 	setvar VAR_MAP_SCENE_VIRIDIAN_CITY_OLD_MAN, 1
 	setvar VAR_MAP_SCENE_PALLET_TOWN_GARYS_HOUSE, 1
 	setvar VAR_MAP_SCENE_ROUTE22, 1
+	special EnableNationalPokedex
 	release
 	end
 
